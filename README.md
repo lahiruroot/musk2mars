@@ -5,6 +5,6 @@ Help Elon Musk reach mars as soon as possible and help him avoid the funky obsta
 
 
 contribution
-============
+==========
 
 Accepting issues/PRs for more reasons, or any gameplay tips.
